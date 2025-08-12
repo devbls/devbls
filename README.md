@@ -3,8 +3,6 @@
 
 - 🔭 Atualmente trabalhando na [XLOW](https://control.xlow.com/)
 
-- 👨‍💻 Meus projetos estão disponíveis aqui: [https://portfolio-delta-three-13.vercel.app/](https://portfolio-delta-three-13.vercel.app/)
-
 - 🌱 Aprendendo: **Python, Nodejs**
 
 - 📫 Contatos: [LinkedIn](https://linkedin.com/in/brenno-santos-57399b334) | [E-mail](mailto:devblsds@gmail.com)
